@@ -117,8 +117,9 @@ align-items: center;
     height: 24px;
 }
 .current-user-picture{
-    height: 32px;
-    border-radius: 16px;
+    height: 30px;
+    width:30px;
+    border-radius: 15px;
 }
 .notifications-icon-container{
     position:relative;
